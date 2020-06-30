@@ -27,7 +27,7 @@ while ($row = mysqli_fetch_assoc($run_query)) {
 }
 ?>
 
-						 <li><a href="about.php">Contact Us</a></li>
+
 
 <!--
 						<li><a href="#">Category</a></li>

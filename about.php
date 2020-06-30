@@ -14,7 +14,7 @@
             <!-- team-member-->
             <div class="col-md-4 col-sm-8">
               <div class="team-member">
-                <div class="image"><a href="#"><img src="img/adamsaragoza.jpg" alt="" class="img-responsive"></a></div>
+                <div class="image"><a href="#"><img src="img/adamsaragoza.jpeg" alt="" class="img-responsive"></a></div>
                 <h3><a href="#">Adam Saragoza</a></h3>
                 <p class="role">UI/UX Designer</p>
                 <div class="social">
@@ -32,7 +32,7 @@
             <!-- team-member-->
             <div class="col-md-4 col-sm-8">
               <div class="team-member">
-                <div class="image"><a href="#"><img src="img/tinoisraldi.jpg" alt="" class="img-responsive"></a></div>
+                <div class="image"><a href="#"><img src="img/tinoisraldi.jpeg" alt="" class="img-responsive"></a></div>
                 <h3><a href="#">Tino Israldi</a></h3>
                 <p class="role">Front End</p>
                 <div class="social">
