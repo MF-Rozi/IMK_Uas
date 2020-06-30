@@ -14,9 +14,9 @@
             <!-- team-member-->
             <div class="col-md-4 col-sm-8">
               <div class="team-member">
-                <div class="image"><a href="#"><img src="img/person-1.jpg" alt="" class="img-responsive"></a></div>
-                <h3><a href="#">Han Solo</a></h3>
-                <p class="role">Founder</p>
+                <div class="image"><a href="#"><img src="img/adamsaragoza.jpg" alt="" class="img-responsive"></a></div>
+                <h3><a href="#">Adam Saragoza</a></h3>
+                <p class="role">UI/UX Designer</p>
                 <div class="social">
                   <a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
                   <a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
@@ -32,9 +32,9 @@
             <!-- team-member-->
             <div class="col-md-4 col-sm-8">
               <div class="team-member">
-                <div class="image"><a href="#"><img src="img/person-2.jpg" alt="" class="img-responsive"></a></div>
-                <h3><a href="#">Luke Skywalker</a></h3>
-                <p class="role">CTO</p>
+                <div class="image"><a href="#"><img src="img/tinoisraldi.jpg" alt="" class="img-responsive"></a></div>
+                <h3><a href="#">Tino Israldi</a></h3>
+                <p class="role">Front End</p>
                 <div class="social">
                   <a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
                   <a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
@@ -68,9 +68,9 @@
             <!-- team-member-->
             <div class="col-md-6 col-sm-12">
               <div class="team-member">
-                <div class="image"><a href="#"><img src="img/person-4.jpg" alt="" class="img-responsive"></a></div>
-                <h3><a href="#">Han Solo</a></h3>
-                <p class="role">Lead Developer</p>
+                <div class="image"><a href="#"><img src="img/indripangestuti.jpeg" alt="" class="img-responsive"></a></div>
+                <h3><a href="#">Indri Pangestuti</a></h3>
+                <p class="role">Lead Web Designer</p>
                 <div class="social">
                   <a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
                   <a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
