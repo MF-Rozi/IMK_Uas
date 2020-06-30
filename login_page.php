@@ -31,9 +31,7 @@
                         <a href="#" class="pull-right">Forgot Password?</a>
                     </div>
                 </form>
-                <p class="text-center"><a href="register.php">Create an Account</a></p>
-		<a href="https://github.com/MF-Rozi/pabw-uts"><button type="button" class="btn btn-danger btn-block" name="login">Github</button>
-</a>
+
             </div>
 
         </div>
